@@ -7,7 +7,6 @@
     },
     "rules": {
         "semi": ["error", "always"],
-        "no-unused-vars":["error"],
         "simple-import-sort/imports": "error",
         "simple-import-sort/exports": "error"
     },
